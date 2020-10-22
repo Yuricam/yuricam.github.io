@@ -1,0 +1,109 @@
+/*头部公用*/
+.search,.s-tex,.s-btn,.login,.personal .hp,.personal .tex,.played,.like,.seg,.top-list li,.pre,.nex,.pag-ico,.pag-ico a,.skin,
+.nav a,.skin-ul li,.sec-1 li,.title a,.sec-2 li,.cutover a{float:left;display:inline}
+.right-content,.for-btn,.outside,.pop-close{float:right;display:inline}
+.right-content,.login,.played,.like,.top-list li,.skin,.nav a,.skin-ul li,.copy{position:relative}
+.login-rear,.ico1,.ico2,.ico3,.ico4,.p-hover,.l-hover,.del,.i-rec,.sel,.cutover{position:absolute}
+.personal .tex,.ico1,.ico2,.ico3,.ico4,.pre,.nex,.seg,.top-list li,.i-rec,.skin,.for-btn,.nav i,.sec-1 li,.sec-2 li{overflow:hidden}
+.s-btn,.played,.like,.personal .tex,.i-rec,.del{cursor:pointer}
+.login-list a,.quit,.i-rec,.nav i,.sel{display:block}
+.del,.pop{display:none}
+.nav a:hover,.save .btn{color:#fff !important;}
+.nav a:hover,.nav a.on,.for-btn:hover,.cutover a:hover,.cutover a.on,.save .btn:hover,.title .a:hover{text-decoration:none}
+.nav-ico,.rear-1,.rear-2,.rear-3,.rear-4,.rear-5,.ico3,.ico4,.del,.i-rec,.nav .h,.pop-close,.sel,.save .btn,
+.moc,.wb,.tx,.ghs{background:url(/images/p2016/fix.png) no-repeat}
+.s-btn,.ico1,.ico2,.pre,.nex,.pag-ico a,.for-btn,.nav a:hover,.nav a.on{background:url(/images/p2016/colour-1.png) no-repeat}
+.tbar-h{height:33px}
+.tbar{background:#fff;width:100%;height:32px;line-height:32px;border-bottom:1px solid #ebeaea;z-index:88}
+.search{width:234px;padding:4px 0 0 10px}
+.s-tex{width:190px;height:22px;line-height:26px;padding-left:8px;background:none;border:1px solid #c7c7c7;border-right:none;color:#bcbcbc}
+.s-btn{background-position:0 -97px;width:33px;height:24px;border:none}
+.s-btn:hover{opacity:0.7;filter:alpha(opacity=70)}
+.right-content{z-index:10}
+.login{background:#f0f0f0;width:120px;text-align:center}
+.login a{color:#999;margin:0 2px}
+.login-rear{background:#fff;width:120px;height:194px;border:1px solid #ddd;border-top:none;top:0;left:-1px;z-index:868}
+.personal{width:118px;height:32px}
+.personal .hp{margin:4px 5px 0 5px;height:24px;width:24px}
+.personal .tex{width:68px;height:32px;text-align:left}
+.login-list a{width:80px;height:28px;line-height:28px;border-bottom:1px solid #f1f0f0;margin:0 auto}
+.rear-1,.rear-2,.rear-3,.rear-4,.rear-5{padding-left:20px}
+.rear-1{background-position:-98px -84px}
+.rear-2{background-position:-98px -116px}
+.rear-3{background-position:-98px -147px}
+.rear-4{background-position:-98px -179px}
+.rear-5{background-position:-98px -212px;border-bottom:none !important}
+.quit{background:#e5ece4;color:#666;height:18px;line-height:18px;text-align:center}
+.played,.like{width:90px;height:32px;padding-left:5px;border-left:1px solid #fff;border-right:1px solid #fff;text-align:center}
+.ico1,.ico2,.ico3,.ico4{width:15px;height:15px;top:8px}
+.ico1{background-position:0 -122px;left:7px}
+.ico2{background-position:-16px -122px;width:16px;left:6px}
+.ico3{background-position:-65px -21px;width:9px;height:5px;right:5px;top:13px}
+.ico4{background-position:-57px -62px;width:17px;height:15px;left:5px}
+.seg{width:0px;height:12px;border-left:1px solid #e2e2e2;border-right:1px solid #f6f6f6;margin:11px 5px 0 5px}
+.cur{background:#fff;border-left:1px solid #ddd;border-right:1px solid #ddd;z-index:11}
+.p-hover,.l-hover{background:#fff;width:278px;border:1px solid #ddd;top:31px;z-index:10}
+.p-hover{right:85px}
+.l-hover{right:-11px}
+.p-hover p,.l-hover p{height:30px;line-height:40px;text-align:center;color:#666}
+.p-hover iframe,.l-hover iframe{display:block;width:280px;height:100%;left:-1px;position:absolute;opacity:0;filter:alpha(opacity=0);z-index:-1}
+.top-list{padding-top:12px}
+.top-list li{text-align:center;width:78px;height:100px;line-height:24px;padding:3px 0 0 11px} 
+.top-list img{width:72px;height:72px;margin:0 auto}
+.del{background-position:-100px 0;width:13px;height:13px;top:0;right:0}
+.i-rec{background-position:0 -62px;width:20px;height:14px;top:10px;left:14px}
+.top-pag{background:#e5eed7;height:28px}
+.pre,.nex{width:8px;height:14px;margin-top:8px}
+.pre{background-position:-34px -122px;margin-left:10px}
+.pre:hover{background-position:-43px -122px}
+.nex{background-position:-61px -122px}
+.nex:hover{background-position:-52px -122px}
+.pag-ico{padding:0 5px}
+.pag-ico a{background-position:-70px -122px;width:9px;height:9px;margin:11px 3px 0 3px}
+.pag-ico a:hover,.pag-ico a.on{background-position:-80px -122px}
+.for-btn{background-position:0 -138px;width:38px;height:18px;line-height:19px;text-align:center;color:#999;margin:5px 10px 0 0}
+.for-btn:hover{background-position:0 -157px}
+.skin{height:28px;padding:0 5px 0 25px;color:#649714}
+.skin:hover{background:#fbfbfb}
+.nav-b{padding-left:5px;position:relative}
+.nav{width:50px;padding:0 10px;height:33px;line-height:30px;_line-height:32px;cursor:pointer;overflow:hidden}
+.nav-ico{background-position:0 -27px;float:left;width:12px;height:10px;margin:10px 3px 0 0}
+.nav.active{background:#fff;border-left:1px solid #ccc;border-right:1px solid #ccc;color:#ff6600;position:relative;z-index:11}
+.nav.active .nav-ico{background-position:-13px -27px}
+.t-nav{background:#fff;width:160px;height:165px;line-height:24px;border:1px solid #ccc;top:32px;left:-85px;position:absolute;z-index:10;overflow:hidden}
+.t-links{width:165px;height:96px;padding:5px 10px}
+.t-links a{display:inline-block;margin-right:14px}
+.t-nav iframe{background:#fff;display:block;width:162px;height:165px;left:-1px;position:absolute;opacity:0;z-index:-1}
+.t-nav .c-fb6{color:#fb6400}
+.t-bg{background:#f2f2f2}
+.pop{background:#fff;width:490px;height:400px;top:50px;left:0;z-index:188}
+.pop-top{background:#f6f6f6;height:40px}
+.pop-tab{width:470px;height:40px;line-height:40px;border-bottom:2px solid #ddd;margin:0 auto}
+.cutover{height:40px;font-size:16px}
+.cutover a{height:40px;padding:0 10px;margin-right:10px}
+.cutover a:hover,.cutover a.on{border-bottom:2px solid #56932b;color:#56932b}
+.pop-close{background-position:-21px -62px;width:16px;height:16px;margin:12px 10px 0 0}
+.skin-ul{padding-left:6px}
+.skin-ul li{width:100px;height:90px;text-align:center;margin:10px 0 0 15px}
+.skin-ul img{width:100px;height:70px}
+.sel{background-position:-38px -62px;width:18px;height:18px;top:3px;right:3px}
+.save{width:470px;text-align:center;border-top:1px solid #e4e4e4;padding-top:10px;margin:0 auto}
+.save a{display:inline-block;width:67px;height:28px;line-height:28px;font-size:14px}
+.save .btn{background-position:0 -81px;color:#fff !important}
+.foot{background:#f0f0f0;width:100%;border-top:2px solid #ddd;line-height:26px}
+.copy{text-align:center;width: 980px;height: 217px;margin: 0 auto}
+.exp{padding:15px 0;color:#aaa}
+.exp a{color:#aaa}
+.exp i{color:#818181}
+.line1{color:#e7e7e7;padding-bottom:15px}
+.line1 a{color:#666;margin:0 5px}
+.line1 .c1{color:#f24445}
+.wechat-QR{background:#fff;border:1px solid #e1e1e1;width:138px;height:164px;line-height:14px;position:absolute;right:205px;top:-85px;_top:-90px;display:none}
+.wechat-QR img{margin:7px auto 3px auto}
+.copy-4399{color:#aaa;padding-bottom:15px}
+.copy-4399 a{margin:0 5px;color:#aaa}
+.moc,.wb,.tx,.ghs{display:inline-block;width:20px;height:17px;vertical-align:middle}
+.moc{background-position:-43px -27px}
+.wb{background-position:-64px -27px}
+.tx{background-position:-85px -27px}
+.ghs{background-position:-24px 0;height:20px}
